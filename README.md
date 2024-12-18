@@ -9,7 +9,7 @@
 
 ## Languages and Tools:
 
-<p align="center">
+<p>
   <a href="https://www.typescriptlang.org/">
     <img src="https://i.ibb.co/j3drXZQ/typescript.png" width="40" height="40" alt="TypeScript">
   </a>
@@ -35,6 +35,14 @@
     <img src="https://i.ibb.co/kq9WHnN/figma.png" width="40" height="40" alt="Figma">
   </a>
 </p>
+
+
+## 🚀 GitHub Streak
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MellerinCharly&layout=compact&theme=radical)
+
+
+
 
 <!---
 MellerinCharly/MellerinCharly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
