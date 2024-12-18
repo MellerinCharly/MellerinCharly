@@ -1,14 +1,13 @@
-- 👋 Hi, I’m @MellerinCharly
-- 👀 I’m interested in books, writing and food !
+# 👋 Hi, I’m @MellerinCharly
+
+- 👀 I’m interested in books, writing, and food!
 - 🌱 I’m currently learning the joys of coding.
 - 💞️ I’m looking to collaborate on future projects.
-- 📫 How to reach me, looking for me !
+- 📫 How to reach me: just look for me!
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I'm a big fan of desserts
-
+- ⚡ Fun fact: I'm a big fan of desserts 🍰
 
 ## Languages and Tools:
-
 
 <p align="center">
   <a href="https://www.typescriptlang.org/">
