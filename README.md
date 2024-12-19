@@ -40,7 +40,7 @@
 
 - [Nantes Quiz Project](https://github.com/MellerinCharly/projet-quiz-nantes) : An interactive quiz project about the city of Nantes.
 - [JS Nantes P2 - Caféothèque](https://github.com/WildCodeSchool-2024-09/JS-Nantes-P2-Cafeotheque) : A web application to manage a coffee library.
-- [Paupiette](#) : A recipe sharing project where users can share their recipes.  
+- [Paupiette](in progress...) : A recipe sharing project where users can share their recipes.  
 
 
 
