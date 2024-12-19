@@ -38,7 +38,7 @@
 
 ## 📽️ My Projects 
 
-- [Nantes Quiz Project](https://github.com/MellerinCharly/projet-quiz-nantes) : An interactive quiz project about the city of Nantes.
+- [Nantes Quiz Project](https://github.com/MellerinCharly/projet-quiz-nantes) : An interactive quiz project about the city of Nantes. [Play](https://mellerincharly.github.io/projet-quiz-nantes/)
 - [JS Nantes P2 - Caféothèque](https://github.com/WildCodeSchool-2024-09/JS-Nantes-P2-Cafeotheque) : A web application to manage a coffee library.
 - [Paupiette](in progress...) : A recipe sharing project where users can share their recipes.  
 
