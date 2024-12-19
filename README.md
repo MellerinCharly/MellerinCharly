@@ -7,7 +7,7 @@
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I'm a big fan of desserts 🍰
 
-## Languages and Tools:
+## 📚 Languages and Tools:
 
 <p>
   <a href="https://www.typescriptlang.org/">
