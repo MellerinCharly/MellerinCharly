@@ -5,9 +5,9 @@
 - 💞️ I’m looking to collaborate on future projects.
 - 📫 How to reach me: just look for me!
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I'm a big fan of desserts 🍰
+- ⚡ Fun fact: I'm a big fan of desserts 🍰  
 
-## 📚 Languages and Tools:
+## 📚 Languages and Tools
 
 <p>
   <a href="https://www.typescriptlang.org/">
@@ -34,7 +34,15 @@
   <a href="https://www.figma.com/">
     <img src="https://i.ibb.co/kq9WHnN/figma.png" width="40" height="40" alt="Figma">
   </a>
-</p>
+</p>  
+
+## 📽️ My Projects 
+
+- [Nantes Quiz Project](https://github.com/MellerinCharly/projet-quiz-nantes) : An interactive quiz project about the city of Nantes.
+- [JS Nantes P2 - Caféothèque](https://github.com/WildCodeSchool-2024-09/JS-Nantes-P2-Cafeotheque) : A web application to manage a coffee library.
+- [Paupiette](#) : A recipe sharing project where users can share their recipes.  
+
+
 
 
 ## 🚀 GitHub Stats
