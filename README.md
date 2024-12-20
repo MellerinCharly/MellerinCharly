@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @MellerinCharly
+# 👋 Hi, I’m @MellerinCharly 😊
 
 - 👀 I’m interested in books, writing, and food!
 - 🌱 I’m currently learning the joys of coding.
