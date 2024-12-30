@@ -7,7 +7,7 @@
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I'm a big fan of desserts 🍰  
 
-## 📚 Languages and Tools
+## 📚 Languages and Tools 
 
 <p>
   <a href="https://www.typescriptlang.org/">
@@ -40,12 +40,12 @@
 
 - [Nantes Quiz Project](https://github.com/MellerinCharly/projet-quiz-nantes) : An interactive quiz project about the city of Nantes. [Play here ! :)](https://mellerincharly.github.io/projet-quiz-nantes/)
 - [JS Nantes P2 - Caféothèque](https://github.com/WildCodeSchool-2024-09/JS-Nantes-P2-Cafeotheque) : A web application to manage a coffee library.
-- [Paupiette](in progress...) : A recipe sharing project where users can share their recipes.  
+- [Pot'piette](in progress...) : A recipe sharing project where users can share their recipes.  
 
 
 
 
-## 🚀 GitHub Stats
+## 🚀 GitHub Stats 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MellerinCharly&layout=compact&theme=radical)
 
