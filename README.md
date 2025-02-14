@@ -40,7 +40,8 @@
 
 - [Nantes Quiz Project](https://github.com/MellerinCharly/projet-quiz-nantes) : An interactive quiz project about the city of Nantes. [Play here ! :)](https://mellerincharly.github.io/projet-quiz-nantes/)
 - [JS Nantes P2 - Caféothèque](https://github.com/WildCodeSchool-2024-09/JS-Nantes-P2-Cafeotheque) : A web application to manage a coffee library.
-- [Pot'piette](https://github.com/WildCodeSchool-2024-09/JS-Nantes-CSS117-P3_Pot-piette)(in progress...) : A recipe sharing project where users can share their recipes.  
+- [Pot'piette](https://github.com/WildCodeSchool-2024-09/JS-Nantes-CSS117-P3_Pot-piette)(in progress...) : A recipe sharing project where users can share their recipes.
+- [Shadow Of Th Colossus](https://github.com/MellerinCharly/Shadow-Of-The-Colosus)(in progress...) : An agenda of the giants we defeated. 
 
 
 
